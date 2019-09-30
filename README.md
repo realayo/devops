@@ -1,1 +1,1 @@
-# Person CI/DC project
+# Sample CI/DC project

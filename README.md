@@ -1,1 +1,1 @@
-# devops
+# Sample CI/DC project
